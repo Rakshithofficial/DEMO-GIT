@@ -1,0 +1,1 @@
+print("content in middle")
